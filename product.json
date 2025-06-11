@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Phone",
+    "price": 15000,
+    "image": "phone.jpg",
+    "seller": "ABC Traders",
+    "rating": 4.2,
+    "inStock": true,
+    "description": "A powerful smartphone with the latest features."
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "price": 40000,
+    "image": "laptop.jpg",
+    "seller": "XYZ Electronics",
+    "rating": 4.5,
+    "inStock": true,
+    "description": "A high-performance laptop for professionals."
+  }
+]
